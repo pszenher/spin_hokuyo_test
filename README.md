@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # spin_hokuyo
 This repository contains code to control a Dynamixel motor and a 2D Hokuyo LiDAR to create a 3D point cloud that can be visualized in rviz.  This point cloud can then be used to create an octomap (code for this is not included in this repository).<br />
 
@@ -39,3 +40,6 @@ The class system used to control the Dynamixel motors and the basis for the serv
 The pcl_assembler_client is a modified form of the periodic_snapshotter.cpp which is included in the /examples folder of laser_assembler which is hosted at:
 https://github.com/ros-perception/laser_assembler
 ##
+=======
+# spin_hokuyo_test
+>>>>>>> 519141faae7c0bfb1bf6eddfc8afb8f6af49ad8f
